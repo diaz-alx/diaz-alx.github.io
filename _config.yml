@@ -6,4 +6,6 @@ description: > #Minimal is a theme for GitHub Pages.
   <a href="https://www.linkedin.com/in/gabriel-diaz-obando/"
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
