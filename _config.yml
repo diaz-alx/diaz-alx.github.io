@@ -1,6 +1,9 @@
-title: Minimal theme
+title: Gabriel Díaz
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: > #Minimal is a theme for GitHub Pages.
+  Ingeniero en Sistemas de Información con énfasis en el análisis de datos con más de 4 años de experiencia en el área de TI orientado al detalle y seguridad de los sistemas. Conocimientos de arquitectura, diseño e infraestructura de sistemas. Participación en Hackathons, proyectos de desarrollo de software, investigación y análisis de datos.
+  <br><br>
+  <a href="https://www.linkedin.com/in/gabriel-diaz-obando/"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
